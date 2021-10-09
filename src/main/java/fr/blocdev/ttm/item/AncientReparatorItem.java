@@ -22,7 +22,7 @@ public class AncientReparatorItem extends TtmModElements.ModElement {
 	@ObjectHolder("ttm:ancient_reparator")
 	public static final Item block = null;
 	public AncientReparatorItem(TtmModElements instance) {
-		super(instance, 40);
+		super(instance, 9);
 	}
 
 	@Override

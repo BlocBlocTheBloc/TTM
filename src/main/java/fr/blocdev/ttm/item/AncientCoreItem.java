@@ -18,7 +18,7 @@ public class AncientCoreItem extends TtmModElements.ModElement {
 	@ObjectHolder("ttm:ancient_core")
 	public static final Item block = null;
 	public AncientCoreItem(TtmModElements instance) {
-		super(instance, 23);
+		super(instance, 10);
 	}
 
 	@Override

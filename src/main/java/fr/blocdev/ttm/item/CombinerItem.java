@@ -24,7 +24,7 @@ public class CombinerItem extends TtmModElements.ModElement {
 	@ObjectHolder("ttm:combiner")
 	public static final Item block = null;
 	public CombinerItem(TtmModElements instance) {
-		super(instance, 8);
+		super(instance, 6);
 	}
 
 	@Override

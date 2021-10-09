@@ -42,7 +42,7 @@ import fr.blocdev.ttm.TtmModElements;
 public class OldBiomeBiome extends TtmModElements.ModElement {
 	public static Biome biome;
 	public OldBiomeBiome(TtmModElements instance) {
-		super(instance, 2);
+		super(instance, 13);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new BiomeRegisterHandler());
 	}
 	private static class BiomeRegisterHandler {

@@ -22,7 +22,7 @@ public class AncientGemItem extends TtmModElements.ModElement {
 	@ObjectHolder("ttm:ancient_gem")
 	public static final Item block = null;
 	public AncientGemItem(TtmModElements instance) {
-		super(instance, 7);
+		super(instance, 3);
 	}
 
 	@Override

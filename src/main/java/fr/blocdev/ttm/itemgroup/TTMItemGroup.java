@@ -13,7 +13,7 @@ import fr.blocdev.ttm.TtmModElements;
 @TtmModElements.ModElement.Tag
 public class TTMItemGroup extends TtmModElements.ModElement {
 	public TTMItemGroup(TtmModElements instance) {
-		super(instance, 3);
+		super(instance, 14);
 	}
 
 	@Override

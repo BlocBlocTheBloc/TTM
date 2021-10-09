@@ -28,7 +28,7 @@ public class AncientDustItem extends TtmModElements.ModElement {
 	@ObjectHolder("ttm:ancient_dust")
 	public static final Item block = null;
 	public AncientDustItem(TtmModElements instance) {
-		super(instance, 11);
+		super(instance, 4);
 	}
 
 	@Override

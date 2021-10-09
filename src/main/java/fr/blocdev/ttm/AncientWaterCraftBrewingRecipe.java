@@ -14,7 +14,7 @@ import fr.blocdev.ttm.item.AncientDustItem;
 @TtmModElements.ModElement.Tag
 public class AncientWaterCraftBrewingRecipe extends TtmModElements.ModElement {
 	public AncientWaterCraftBrewingRecipe(TtmModElements instance) {
-		super(instance, 25);
+		super(instance, 28);
 	}
 
 	@Override

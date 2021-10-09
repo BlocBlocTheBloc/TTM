@@ -22,7 +22,7 @@ public class AncientShardItem extends TtmModElements.ModElement {
 	@ObjectHolder("ttm:ancient_shard")
 	public static final Item block = null;
 	public AncientShardItem(TtmModElements instance) {
-		super(instance, 4);
+		super(instance, 2);
 	}
 
 	@Override

@@ -1,0 +1,30 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "ttm:ancient_core"
+    },
+    "2": {
+      "item": "ttm:ancient_sword_head"
+    },
+    "4": {
+      "item": "ttm:combiner"
+    },
+    "5": {
+      "item": "ttm:ancient_core"
+    },
+    "6": {
+      "item": "ttm:ancient_stick"
+    }
+  },
+  "result": {
+    "item": "ttm:ancient_sword",
+    "count": 1
+  }
+}

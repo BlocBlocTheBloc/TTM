@@ -29,7 +29,7 @@ public class AncientWaterItem extends TtmModElements.ModElement {
 	@ObjectHolder("ttm:ancient_water")
 	public static final Item block = null;
 	public AncientWaterItem(TtmModElements instance) {
-		super(instance, 13);
+		super(instance, 5);
 	}
 
 	@Override

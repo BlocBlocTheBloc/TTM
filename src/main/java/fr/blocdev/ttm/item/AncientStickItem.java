@@ -22,7 +22,7 @@ public class AncientStickItem extends TtmModElements.ModElement {
 	@ObjectHolder("ttm:ancient_stick")
 	public static final Item block = null;
 	public AncientStickItem(TtmModElements instance) {
-		super(instance, 17);
+		super(instance, 7);
 	}
 
 	@Override

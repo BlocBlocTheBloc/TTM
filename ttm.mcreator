@@ -14,7 +14,7 @@
     {
       "name": "OldBiome",
       "type": "biome",
-      "sortid": 2,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -24,7 +24,7 @@
     {
       "name": "TTM",
       "type": "tab",
-      "sortid": 3,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -34,7 +34,7 @@
     {
       "name": "AncientShard",
       "type": "item",
-      "sortid": 4,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -44,7 +44,7 @@
     {
       "name": "AncientShardCraft0",
       "type": "recipe",
-      "sortid": 5,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -54,7 +54,7 @@
     {
       "name": "AncientShardCraft1",
       "type": "recipe",
-      "sortid": 6,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -64,7 +64,7 @@
     {
       "name": "AncientGem",
       "type": "item",
-      "sortid": 7,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -74,7 +74,7 @@
     {
       "name": "Combiner",
       "type": "item",
-      "sortid": 8,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -84,7 +84,7 @@
     {
       "name": "CombinerCraft0",
       "type": "recipe",
-      "sortid": 9,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -94,7 +94,7 @@
     {
       "name": "AncientGemCraft0",
       "type": "recipe",
-      "sortid": 10,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -104,7 +104,7 @@
     {
       "name": "AncientDustEffect",
       "type": "procedure",
-      "sortid": 11,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -122,7 +122,7 @@
     {
       "name": "AncientDust",
       "type": "item",
-      "sortid": 11,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -132,7 +132,7 @@
     {
       "name": "AncientDustCraft",
       "type": "recipe",
-      "sortid": 12,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -142,7 +142,7 @@
     {
       "name": "AncientWater",
       "type": "food",
-      "sortid": 13,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -152,7 +152,7 @@
     {
       "name": "AncientPickaxe",
       "type": "tool",
-      "sortid": 14,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -162,7 +162,7 @@
     {
       "name": "AncientPickaxeActivate",
       "type": "tool",
-      "sortid": 15,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -172,7 +172,7 @@
     {
       "name": "AncientPickaxeActivateCraft",
       "type": "recipe",
-      "sortid": 16,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -182,7 +182,7 @@
     {
       "name": "AncientStick",
       "type": "item",
-      "sortid": 17,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -192,7 +192,7 @@
     {
       "name": "AncientPickaxeHead",
       "type": "item",
-      "sortid": 18,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -202,7 +202,7 @@
     {
       "name": "AncientStickCraft",
       "type": "recipe",
-      "sortid": 19,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -212,7 +212,7 @@
     {
       "name": "AncientPickaxeHeadCraft",
       "type": "recipe",
-      "sortid": 20,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -222,7 +222,7 @@
     {
       "name": "AncientPickaxeCraft",
       "type": "recipe",
-      "sortid": 21,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -232,7 +232,7 @@
     {
       "name": "AncientPickaxeActivatePross1",
       "type": "procedure",
-      "sortid": 22,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -250,7 +250,7 @@
     {
       "name": "AncientCore",
       "type": "item",
-      "sortid": 23,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -260,7 +260,7 @@
     {
       "name": "AncientCoreCraft",
       "type": "recipe",
-      "sortid": 24,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -270,7 +270,7 @@
     {
       "name": "AncientWaterCraft",
       "type": "recipe",
-      "sortid": 25,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -280,7 +280,7 @@
     {
       "name": "CoalSmelt",
       "type": "recipe",
-      "sortid": 26,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -290,7 +290,7 @@
     {
       "name": "IronSmelt",
       "type": "recipe",
-      "sortid": 27,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -300,7 +300,7 @@
     {
       "name": "AncientSlime",
       "type": "livingentity",
-      "sortid": 28,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -310,7 +310,7 @@
     {
       "name": "AncientPickaxeActivateClick",
       "type": "procedure",
-      "sortid": 29,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -328,7 +328,7 @@
     {
       "name": "AncientPickaxeActivateStop",
       "type": "procedure",
-      "sortid": 30,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -346,7 +346,7 @@
     {
       "name": "RedstoneSmelt",
       "type": "recipe",
-      "sortid": 31,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -356,7 +356,7 @@
     {
       "name": "GoldSmelt",
       "type": "recipe",
-      "sortid": 32,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -366,7 +366,7 @@
     {
       "name": "LapisSmelt",
       "type": "recipe",
-      "sortid": 33,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -376,7 +376,7 @@
     {
       "name": "DiamondSmelt",
       "type": "recipe",
-      "sortid": 34,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -386,7 +386,7 @@
     {
       "name": "EmerauldSmelt",
       "type": "recipe",
-      "sortid": 35,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -396,7 +396,7 @@
     {
       "name": "NetherQuarzSmelt",
       "type": "recipe",
-      "sortid": 36,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -406,7 +406,7 @@
     {
       "name": "GoldNetherSmelt",
       "type": "recipe",
-      "sortid": 37,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -416,7 +416,7 @@
     {
       "name": "AncientSmelt",
       "type": "recipe",
-      "sortid": 38,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -426,7 +426,7 @@
     {
       "name": "NetheriteSmelt",
       "type": "recipe",
-      "sortid": 39,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -436,7 +436,7 @@
     {
       "name": "AncientReparator",
       "type": "item",
-      "sortid": 40,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -446,22 +446,150 @@
     {
       "name": "AncientReparatorCraft",
       "type": "recipe",
-      "sortid": 41,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "ancient_reparator_craft",
       "path": "~/Craft"
+    },
+    {
+      "name": "AncientSwordHead",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_sword_head",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientSwordHeadCraft",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_sword_head_craft",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientSword",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_sword",
+      "path": "~/Tools"
+    },
+    {
+      "name": "AncientSwordCraft",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_sword_craft",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientSwordActivateClik",
+      "type": "procedure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_sword_activate_clik",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Procedur"
+    },
+    {
+      "name": "AncientSwordActivateStop",
+      "type": "procedure",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_sword_activate_stop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Procedur"
+    },
+    {
+      "name": "AncientSwordActivate",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_sword_activate",
+      "path": "~/Tools"
+    },
+    {
+      "name": "AncientSwordActivateCraft0",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_sword_activate_craft_0",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientSwordActivateCraft1",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_sword_activate_craft_1",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientTowe",
+      "type": "structure",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_towe",
+      "path": "~/Structure"
+    },
+    {
+      "name": "LootAncientTower",
+      "type": "loottable",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loot_ancient_tower",
+      "path": "~/loot"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.ttm.ancient_sword_head": "Ancient Sword Head",
       "biome.ttm.old_biome": "Old Biome",
       "entity.ttm.ancient_slime": "Ancient Slime",
       "item.tmm.ancient_pickaxe_head": "Ancient Pickaxe Head",
       "item.tmm.ancient_gem": "Ancient Gem",
+      "item.ttm.ancient_sword_activate": "Ancient Sword",
       "item.tmm.ancient_water": "Ancient Water",
       "item.ttm.ancient_stick": "Ancient Stick",
       "item.ttm.combiner": "Combiner",
@@ -481,16 +609,19 @@
       "item.tmm.ancient_dust": "Ancient Dust",
       "item.tmm.ancient_pickaxe_activate": "Ancient Pickaxe",
       "item.ttm.ancient_reparator": "Ancient Reparator",
+      "item.ttm.ancient_sword": "Ancient Sword",
       "item.ttm.ancient_core": "Ancient Core",
       "item.tmm.ancient_shard": "Ancient Shard",
       "biome.tmm.old_biome": "Old Biome",
       "item.ttm.ancient_slime_spawn_egg": "Ancient Slime Spawn Egg"
     },
     "fr_fr": {
+      "item.ttm.ancient_sword_head": "Ancient Sword Head",
       "biome.ttm.old_biome": "Old Biome",
       "entity.ttm.ancient_slime": "Ancient Slime",
       "item.tmm.ancient_pickaxe_head": "Ancienne Tête de Pioche",
       "item.tmm.ancient_gem": "Ancienne Gem",
+      "item.ttm.ancient_sword_activate": "Ancient Sword",
       "item.tmm.ancient_water": "Ancienne eau",
       "item.ttm.ancient_stick": "Ancient Stick",
       "item.ttm.combiner": "Combiner",
@@ -510,6 +641,7 @@
       "item.tmm.ancient_dust": "Ancienne Poudre",
       "item.tmm.ancient_pickaxe_activate": "Ancienne Pioche",
       "item.ttm.ancient_reparator": "Ancient Reparator",
+      "item.ttm.ancient_sword": "Ancient Sword",
       "item.ttm.ancient_core": "Ancient Core",
       "item.tmm.ancient_shard": "Ancien fragment",
       "biome.tmm.old_biome": "Ancien Biome",
@@ -558,13 +690,21 @@
       {
         "name": "Entity",
         "children": []
+      },
+      {
+        "name": "loot",
+        "children": []
+      },
+      {
+        "name": "Structure",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "ttm",
     "modName": "TheThecnologyMod",
-    "version": "Release Public 1",
+    "version": "Release Public 2",
     "author": "BlocBlocTheBloc",
     "websiteURL": "http://www.blankwebsite.com",
     "license": "Public Domain",

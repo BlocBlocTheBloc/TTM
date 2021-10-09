@@ -1,8 +1,10 @@
 {
+  "item.ttm.ancient_sword_head": "Ancient Sword Head",
   "biome.ttm.old_biome": "Old Biome",
   "entity.ttm.ancient_slime": "Ancient Slime",
   "item.tmm.ancient_pickaxe_head": "Ancienne Tête de Pioche",
   "item.tmm.ancient_gem": "Ancienne Gem",
+  "item.ttm.ancient_sword_activate": "Ancient Sword",
   "item.tmm.ancient_water": "Ancienne eau",
   "item.ttm.ancient_stick": "Ancient Stick",
   "item.ttm.combiner": "Combiner",
@@ -22,6 +24,7 @@
   "item.tmm.ancient_dust": "Ancienne Poudre",
   "item.tmm.ancient_pickaxe_activate": "Ancienne Pioche",
   "item.ttm.ancient_reparator": "Ancient Reparator",
+  "item.ttm.ancient_sword": "Ancient Sword",
   "item.ttm.ancient_core": "Ancient Core",
   "item.tmm.ancient_shard": "Ancien fragment",
   "biome.tmm.old_biome": "Ancien Biome",

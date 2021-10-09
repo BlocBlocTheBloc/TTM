@@ -46,7 +46,7 @@ public class AncientSlimeEntity extends TtmModElements.ModElement {
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(16).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).size(1f, 1f))
 					.build("ancient_slime").setRegistryName("ancient_slime");
 	public AncientSlimeEntity(TtmModElements instance) {
-		super(instance, 28);
+		super(instance, 12);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new AncientSlimeRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

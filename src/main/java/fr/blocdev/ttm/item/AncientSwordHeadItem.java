@@ -3,26 +3,20 @@ package fr.blocdev.ttm.item;
 
 import net.minecraftforge.registries.ObjectHolder;
 
-import net.minecraft.world.World;
-import net.minecraft.util.text.StringTextComponent;
-import net.minecraft.util.text.ITextComponent;
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
-import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.block.BlockState;
-
-import java.util.List;
 
 import fr.blocdev.ttm.itemgroup.TTMItemGroup;
 import fr.blocdev.ttm.TtmModElements;
 
 @TtmModElements.ModElement.Tag
-public class AncientPickaxeHeadItem extends TtmModElements.ModElement {
-	@ObjectHolder("ttm:ancient_pickaxe_head")
+public class AncientSwordHeadItem extends TtmModElements.ModElement {
+	@ObjectHolder("ttm:ancient_sword_head")
 	public static final Item block = null;
-	public AncientPickaxeHeadItem(TtmModElements instance) {
-		super(instance, 8);
+	public AncientSwordHeadItem(TtmModElements instance) {
+		super(instance, 43);
 	}
 
 	@Override
@@ -32,7 +26,7 @@ public class AncientPickaxeHeadItem extends TtmModElements.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(TTMItemGroup.tab).maxStackSize(1).rarity(Rarity.UNCOMMON));
-			setRegistryName("ancient_pickaxe_head");
+			setRegistryName("ancient_sword_head");
 		}
 
 		@Override
@@ -48,12 +42,6 @@ public class AncientPickaxeHeadItem extends TtmModElements.ModElement {
 		@Override
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
-		}
-
-		@Override
-		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
-			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("The Head of the pickaxe"));
 		}
 	}
 }

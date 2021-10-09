@@ -1,0 +1,12 @@
+{
+  "group": "ttm",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "ttm:ancient_sword"
+  },
+  "result": {
+    "item": "ttm:ancient_sword_activate"
+  }
+}
