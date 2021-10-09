@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AncientGem"
+      },
+      {
+        "value": "CUSTOM:AncientGem"
+      },
+      {
+        "value": "CUSTOM:AncientGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientWater"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.FLINT_AND_STEEL"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AncientPickaxeHead"
+    },
+    "name": "ancient_pickaxe_head_craft",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sticky_piston"
+    },
+    "2": {
+      "item": "minecraft:sticky_piston"
+    },
+    "4": {
+      "item": "minecraft:redstone_block"
+    },
+    "6": {
+      "item": "minecraft:sticky_piston"
+    },
+    "8": {
+      "item": "minecraft:sticky_piston"
+    }
+  },
+  "result": {
+    "item": "ttm:combiner",
+    "count": 1
+  }
+}

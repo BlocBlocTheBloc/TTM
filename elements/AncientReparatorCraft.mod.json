@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientDust"
+      },
+      {
+        "value": "CUSTOM:AncientCore"
+      },
+      {
+        "value": "CUSTOM:AncientDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientGem"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AncientReparator"
+    },
+    "name": "ancient_reparator_craft",
+    "namespace": "mod"
+  }
+}

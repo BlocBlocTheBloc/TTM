@@ -1,0 +1,42 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "t",
+    "customModelName": "Normal",
+    "name": "Ancient Pickaxe",
+    "specialInfo": [
+      "The Ancient Pickaxe is now ACTIVATE !"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:TTM"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 5,
+    "efficiency": 14.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 3150,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AncientReparator"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true,
+    "onRightClickedInAir": {
+      "name": "AncientPickaxeActivateClick"
+    },
+    "onCrafted": {
+      "name": "AncientPickaxeActivatePross1"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "AncientPickaxeActivateStop"
+    }
+  }
+}

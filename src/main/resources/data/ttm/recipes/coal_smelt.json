@@ -1,0 +1,16 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ttm:ancient_pickaxe_activate"
+    },
+    {
+      "item": "minecraft:coal_ore"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal",
+    "count": 5
+  }
+}

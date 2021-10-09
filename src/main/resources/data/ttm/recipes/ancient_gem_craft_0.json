@@ -1,0 +1,30 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "ttm:ancient_shard"
+    },
+    "2": {
+      "item": "ttm:ancient_shard"
+    },
+    "4": {
+      "item": "ttm:combiner"
+    },
+    "6": {
+      "item": "ttm:ancient_shard"
+    },
+    "8": {
+      "item": "ttm:ancient_shard"
+    }
+  },
+  "result": {
+    "item": "ttm:ancient_gem",
+    "count": 1
+  }
+}

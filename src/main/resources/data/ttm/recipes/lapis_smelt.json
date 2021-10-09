@@ -1,0 +1,16 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ttm:ancient_pickaxe_activate"
+    },
+    {
+      "item": "minecraft:lapis_ore"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lapis_lazuli",
+    "count": 6
+  }
+}

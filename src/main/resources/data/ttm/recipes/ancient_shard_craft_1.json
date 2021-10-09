@@ -1,0 +1,12 @@
+{
+  "group": "ttm",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "ttm:ancient_ore"
+  },
+  "result": {
+    "item": "ttm:ancient_shard"
+  }
+}

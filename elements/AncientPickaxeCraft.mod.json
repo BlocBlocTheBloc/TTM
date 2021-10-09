@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientCore"
+      },
+      {
+        "value": "CUSTOM:AncientPickaxeHead"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Combiner"
+      },
+      {
+        "value": "CUSTOM:AncientCore"
+      },
+      {
+        "value": "CUSTOM:AncientStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AncientPickaxe"
+    },
+    "name": "ancient_pickaxe_craft",
+    "namespace": "mod"
+  }
+}

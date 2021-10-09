@@ -1,0 +1,584 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "AncientOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_ore",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "OldBiome",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "old_biome",
+      "path": "~/Biomes"
+    },
+    {
+      "name": "TTM",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ttm",
+      "path": "~/TAB"
+    },
+    {
+      "name": "AncientShard",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_shard",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientShardCraft0",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_shard_craft_0",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientShardCraft1",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_shard_craft_1",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientGem",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_gem",
+      "path": "~/Items"
+    },
+    {
+      "name": "Combiner",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "combiner",
+      "path": "~/Items"
+    },
+    {
+      "name": "CombinerCraft0",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "combiner_craft_0",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientGemCraft0",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_gem_craft_0",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientDustEffect",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_dust_effect",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedur"
+    },
+    {
+      "name": "AncientDust",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_dust",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientDustCraft",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_dust_craft",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientWater",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_water",
+      "path": "~/Food"
+    },
+    {
+      "name": "AncientPickaxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_pickaxe",
+      "path": "~/Tools"
+    },
+    {
+      "name": "AncientPickaxeActivate",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_pickaxe_activate",
+      "path": "~/Tools"
+    },
+    {
+      "name": "AncientPickaxeActivateCraft",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_pickaxe_activate_craft",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientStick",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_stick",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientPickaxeHead",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_pickaxe_head",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientStickCraft",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_stick_craft",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientPickaxeHeadCraft",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_pickaxe_head_craft",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientPickaxeCraft",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_pickaxe_craft",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientPickaxeActivatePross1",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_pickaxe_activate_pross_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Procedur"
+    },
+    {
+      "name": "AncientCore",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_core",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientCoreCraft",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_core_craft",
+      "path": "~/Craft"
+    },
+    {
+      "name": "AncientWaterCraft",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_water_craft",
+      "path": "~/Craft"
+    },
+    {
+      "name": "CoalSmelt",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "IronSmelt",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "AncientSlime",
+      "type": "livingentity",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_slime",
+      "path": "~/Entity"
+    },
+    {
+      "name": "AncientPickaxeActivateClick",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_pickaxe_activate_click",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Procedur"
+    },
+    {
+      "name": "AncientPickaxeActivateStop",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_pickaxe_activate_stop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Procedur"
+    },
+    {
+      "name": "RedstoneSmelt",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "GoldSmelt",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "LapisSmelt",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "DiamondSmelt",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "EmerauldSmelt",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerauld_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "NetherQuarzSmelt",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_quarz_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "GoldNetherSmelt",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_nether_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "AncientSmelt",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "NetheriteSmelt",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_smelt",
+      "path": "~/AncientPickaxe Smelt"
+    },
+    {
+      "name": "AncientReparator",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_reparator",
+      "path": "~/Items"
+    },
+    {
+      "name": "AncientReparatorCraft",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_reparator_craft",
+      "path": "~/Craft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "biome.ttm.old_biome": "Old Biome",
+      "entity.ttm.ancient_slime": "Ancient Slime",
+      "item.tmm.ancient_pickaxe_head": "Ancient Pickaxe Head",
+      "item.tmm.ancient_gem": "Ancient Gem",
+      "item.tmm.ancient_water": "Ancient Water",
+      "item.ttm.ancient_stick": "Ancient Stick",
+      "item.ttm.combiner": "Combiner",
+      "item.tmm.combiner": "Combiner",
+      "item.ttm.ancient_gem": "Ancient Gem",
+      "item.tmm.ancient_pickaxe": "Ancient Pickaxe",
+      "block.ttm.ancient_ore": "Ancient Ore",
+      "itemGroup.tabttm": "TTM",
+      "item.ttm.ancient_water": "Ancient Water",
+      "item.ttm.ancient_pickaxe": "Ancient Pickaxe",
+      "item.ttm.ancient_pickaxe_activate": "Ancient Pickaxe",
+      "item.ttm.ancient_shard": "Ancient Shard",
+      "block.tmm.ancient_ore": "Ancient Ore",
+      "item.ttm.ancient_dust": "Ancient Dust",
+      "item.tmm.ancient_stick": "Ancient Stick",
+      "item.ttm.ancient_pickaxe_head": "Ancient Pickaxe Head",
+      "item.tmm.ancient_dust": "Ancient Dust",
+      "item.tmm.ancient_pickaxe_activate": "Ancient Pickaxe",
+      "item.ttm.ancient_reparator": "Ancient Reparator",
+      "item.ttm.ancient_core": "Ancient Core",
+      "item.tmm.ancient_shard": "Ancient Shard",
+      "biome.tmm.old_biome": "Old Biome",
+      "item.ttm.ancient_slime_spawn_egg": "Ancient Slime Spawn Egg"
+    },
+    "fr_fr": {
+      "biome.ttm.old_biome": "Old Biome",
+      "entity.ttm.ancient_slime": "Ancient Slime",
+      "item.tmm.ancient_pickaxe_head": "Ancienne Tête de Pioche",
+      "item.tmm.ancient_gem": "Ancienne Gem",
+      "item.tmm.ancient_water": "Ancienne eau",
+      "item.ttm.ancient_stick": "Ancient Stick",
+      "item.ttm.combiner": "Combiner",
+      "item.tmm.combiner": "Combineur",
+      "item.ttm.ancient_gem": "Ancient Gem",
+      "item.tmm.ancient_pickaxe": "Ancienne Pioche",
+      "block.ttm.ancient_ore": "Ancient Ore",
+      "itemGroup.tabttm": "TTM",
+      "item.ttm.ancient_water": "Ancient Water",
+      "item.ttm.ancient_pickaxe": "Ancient Pickaxe",
+      "item.ttm.ancient_pickaxe_activate": "Ancient Pickaxe",
+      "item.ttm.ancient_shard": "Ancient Shard",
+      "block.tmm.ancient_ore": "Ancien Minerai",
+      "item.ttm.ancient_dust": "Ancient Dust",
+      "item.tmm.ancient_stick": "Ancien Bâton",
+      "item.ttm.ancient_pickaxe_head": "Ancient Pickaxe Head",
+      "item.tmm.ancient_dust": "Ancienne Poudre",
+      "item.tmm.ancient_pickaxe_activate": "Ancienne Pioche",
+      "item.ttm.ancient_reparator": "Ancient Reparator",
+      "item.ttm.ancient_core": "Ancient Core",
+      "item.tmm.ancient_shard": "Ancien fragment",
+      "biome.tmm.old_biome": "Ancien Biome",
+      "item.ttm.ancient_slime_spawn_egg": "Ancient Slime Spawn Egg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Biomes",
+        "children": []
+      },
+      {
+        "name": "TAB",
+        "children": []
+      },
+      {
+        "name": "Craft",
+        "children": []
+      },
+      {
+        "name": "Procedur",
+        "children": []
+      },
+      {
+        "name": "Food",
+        "children": []
+      },
+      {
+        "name": "Tools",
+        "children": []
+      },
+      {
+        "name": "AncientPickaxe Smelt",
+        "children": []
+      },
+      {
+        "name": "Entity",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "ttm",
+    "modName": "TheThecnologyMod",
+    "version": "Release Public 1",
+    "author": "BlocBlocTheBloc",
+    "websiteURL": "http://www.blankwebsite.com",
+    "license": "Public Domain",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "A new mod for experimental g@mers",
+    "modElementsPackage": "fr.blocdev.ttm",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

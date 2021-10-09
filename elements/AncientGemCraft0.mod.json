@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AncientShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Combiner"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientShard"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AncientGem"
+    },
+    "name": "ancient_gem_craft_0",
+    "namespace": "mod"
+  }
+}

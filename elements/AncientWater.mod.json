@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "ancient_potion",
+    "customModelName": "Normal",
+    "name": "Ancient Water",
+    "rarity": "UNCOMMON",
+    "specialInfo": [
+      "A Ancient Water plz dont drink is not safe :/"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:TTM"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 6,
+    "saturation": 0.0,
+    "eatingSpeed": 64,
+    "resultItem": {
+      "value": "Items.GLASS_BOTTLE"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "AncientDustEffect"
+    }
+  }
+}

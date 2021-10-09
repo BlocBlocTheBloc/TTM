@@ -1,0 +1,16 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ttm:ancient_pickaxe_activate"
+    },
+    {
+      "item": "minecraft:iron_ore"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 3
+  }
+}

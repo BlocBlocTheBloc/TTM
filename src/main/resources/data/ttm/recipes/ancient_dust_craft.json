@@ -1,0 +1,9 @@
+{
+  "group": "ttm",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "ttm:ancient_shard"
+  },
+  "result": "ttm:ancient_dust"
+}

@@ -1,0 +1,30 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "ttm:ancient_gem"
+    },
+    "3": {
+      "item": "ttm:ancient_dust"
+    },
+    "4": {
+      "item": "ttm:ancient_core"
+    },
+    "5": {
+      "item": "ttm:ancient_dust"
+    },
+    "7": {
+      "item": "ttm:ancient_gem"
+    }
+  },
+  "result": {
+    "item": "ttm:ancient_reparator",
+    "count": 1
+  }
+}

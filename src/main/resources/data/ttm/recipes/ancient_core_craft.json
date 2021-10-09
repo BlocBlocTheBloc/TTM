@@ -1,0 +1,42 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ttm:ancient_water"
+    },
+    "1": {
+      "item": "ttm:ancient_gem"
+    },
+    "2": {
+      "item": "ttm:ancient_water"
+    },
+    "3": {
+      "item": "ttm:ancient_gem"
+    },
+    "4": {
+      "item": "ttm:combiner"
+    },
+    "5": {
+      "item": "ttm:ancient_gem"
+    },
+    "6": {
+      "item": "ttm:ancient_water"
+    },
+    "7": {
+      "item": "ttm:ancient_gem"
+    },
+    "8": {
+      "item": "ttm:ancient_water"
+    }
+  },
+  "result": {
+    "item": "ttm:ancient_core",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ttm:combiner"
+    },
+    "1": {
+      "item": "ttm:ancient_shard"
+    },
+    "3": {
+      "item": "ttm:ancient_gem"
+    },
+    "5": {
+      "item": "ttm:ancient_shard"
+    }
+  },
+  "result": {
+    "item": "ttm:ancient_stick",
+    "count": 1
+  }
+}

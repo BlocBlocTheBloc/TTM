@@ -1,0 +1,16 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ttm:ancient_pickaxe_activate"
+    },
+    {
+      "item": "minecraft:redstone_ore"
+    }
+  ],
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 6
+  }
+}

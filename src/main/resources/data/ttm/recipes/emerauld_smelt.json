@@ -1,0 +1,19 @@
+{
+  "group": "ttm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "ttm:ancient_pickaxe_activate"
+    },
+    "1": {
+      "item": "minecraft:emerald_ore"
+    }
+  },
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 2
+  }
+}
