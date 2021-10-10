@@ -13,7 +13,7 @@
     "spawnXOffset": 0,
     "spawnZOffset": 0,
     "spawnWorldTypes": [
-      "Surface"
+      "Nether"
     ],
     "restrictionBlocks": [],
     "restrictionBiomes": [

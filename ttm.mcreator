@@ -578,6 +578,46 @@
       "ids": {},
       "registry_name": "loot_ancient_tower",
       "path": "~/loot"
+    },
+    {
+      "name": "CobaltCowPro",
+      "type": "procedure",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_cow_pro",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedur"
+    },
+    {
+      "name": "CobaltCow",
+      "type": "livingentity",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_cow",
+      "path": "~/Entity"
     }
   ],
   "variable_elements": [],
@@ -595,6 +635,7 @@
       "item.ttm.combiner": "Combiner",
       "item.tmm.combiner": "Combiner",
       "item.ttm.ancient_gem": "Ancient Gem",
+      "item.ttm.cobalt_cow_spawn_egg": "Cobalt Cow Spawn Egg",
       "item.tmm.ancient_pickaxe": "Ancient Pickaxe",
       "block.ttm.ancient_ore": "Ancient Ore",
       "itemGroup.tabttm": "TTM",
@@ -604,6 +645,7 @@
       "item.ttm.ancient_shard": "Ancient Shard",
       "block.tmm.ancient_ore": "Ancient Ore",
       "item.ttm.ancient_dust": "Ancient Dust",
+      "entity.ttm.cobalt_cow": "Cobalt Cow",
       "item.tmm.ancient_stick": "Ancient Stick",
       "item.ttm.ancient_pickaxe_head": "Ancient Pickaxe Head",
       "item.tmm.ancient_dust": "Ancient Dust",
@@ -627,6 +669,7 @@
       "item.ttm.combiner": "Combiner",
       "item.tmm.combiner": "Combineur",
       "item.ttm.ancient_gem": "Ancient Gem",
+      "item.ttm.cobalt_cow_spawn_egg": "Cobalt Cow Spawn Egg",
       "item.tmm.ancient_pickaxe": "Ancienne Pioche",
       "block.ttm.ancient_ore": "Ancient Ore",
       "itemGroup.tabttm": "TTM",
@@ -636,6 +679,7 @@
       "item.ttm.ancient_shard": "Ancient Shard",
       "block.tmm.ancient_ore": "Ancien Minerai",
       "item.ttm.ancient_dust": "Ancient Dust",
+      "entity.ttm.cobalt_cow": "Cobalt Cow",
       "item.tmm.ancient_stick": "Ancien Bâton",
       "item.ttm.ancient_pickaxe_head": "Ancient Pickaxe Head",
       "item.tmm.ancient_dust": "Ancienne Poudre",
