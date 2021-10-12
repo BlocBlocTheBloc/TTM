@@ -42,7 +42,7 @@ import fr.blocdev.ttm.TtmModElements;
 public class CobaltCowEntity extends TtmModElements.ModElement {
 	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER)
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
-			.size(0.9f, 1.4f)).build("cobalt_cow").setRegistryName("cobalt_cow");
+			.size(0.9f, 1.4f)).build("steelcow").setRegistryName("steelcow");
 	public CobaltCowEntity(TtmModElements instance) {
 		super(instance, 53);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new CobaltCowRenderer.ModelRegisterHandler());

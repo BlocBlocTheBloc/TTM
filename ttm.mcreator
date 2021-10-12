@@ -616,8 +616,77 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cobalt_cow",
+      "registry_name": "steelcow",
       "path": "~/Entity"
+    },
+    {
+      "name": "SteelTank",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_tank",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "MoltenSteel",
+      "type": "fluid",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_steel",
+      "metadata": {
+        "gb": true
+      },
+      "path": "~/Fluid"
+    },
+    {
+      "name": "VHFASPro1",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vhfas_pro_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Procedur"
+    },
+    {
+      "name": "VeryHotFlintAndSteel",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "very_hot_flint_and_steel",
+      "path": "~/Items"
+    },
+    {
+      "name": "SteelOre",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_ore",
+      "path": "~/Blocks"
     }
   ],
   "variable_elements": [],
@@ -626,6 +695,7 @@
     "en_us": {
       "item.ttm.ancient_sword_head": "Ancient Sword Head",
       "biome.ttm.old_biome": "Old Biome",
+      "fluid.ttm.molten_steel": "Molten Steel",
       "entity.ttm.ancient_slime": "Ancient Slime",
       "item.tmm.ancient_pickaxe_head": "Ancient Pickaxe Head",
       "item.tmm.ancient_gem": "Ancient Gem",
@@ -634,18 +704,20 @@
       "item.ttm.ancient_stick": "Ancient Stick",
       "item.ttm.combiner": "Combiner",
       "item.tmm.combiner": "Combiner",
+      "item.ttm.very_hot_flint_and_steel": "Very Hot Flint And Steel",
       "item.ttm.ancient_gem": "Ancient Gem",
-      "item.ttm.cobalt_cow_spawn_egg": "Cobalt Cow Spawn Egg",
       "item.tmm.ancient_pickaxe": "Ancient Pickaxe",
       "block.ttm.ancient_ore": "Ancient Ore",
+      "block.ttm.steel_ore": "Steel Ore",
       "itemGroup.tabttm": "TTM",
       "item.ttm.ancient_water": "Ancient Water",
       "item.ttm.ancient_pickaxe": "Ancient Pickaxe",
       "item.ttm.ancient_pickaxe_activate": "Ancient Pickaxe",
       "item.ttm.ancient_shard": "Ancient Shard",
       "block.tmm.ancient_ore": "Ancient Ore",
+      "entity.ttm.steelcow": "Steel Cow",
       "item.ttm.ancient_dust": "Ancient Dust",
-      "entity.ttm.cobalt_cow": "Cobalt Cow",
+      "block.ttm.steel_tank": "Steel Tank",
       "item.tmm.ancient_stick": "Ancient Stick",
       "item.ttm.ancient_pickaxe_head": "Ancient Pickaxe Head",
       "item.tmm.ancient_dust": "Ancient Dust",
@@ -653,13 +725,17 @@
       "item.ttm.ancient_reparator": "Ancient Reparator",
       "item.ttm.ancient_sword": "Ancient Sword",
       "item.ttm.ancient_core": "Ancient Core",
+      "item.ttm.steelcow_spawn_egg": "Steel Cow Spawn Egg",
+      "block.ttm.molten_steel": "Molten Steel",
       "item.tmm.ancient_shard": "Ancient Shard",
       "biome.tmm.old_biome": "Old Biome",
-      "item.ttm.ancient_slime_spawn_egg": "Ancient Slime Spawn Egg"
+      "item.ttm.ancient_slime_spawn_egg": "Ancient Slime Spawn Egg",
+      "item.ttm.molten_steel_bucket": "Molten Steel Bucket"
     },
     "fr_fr": {
       "item.ttm.ancient_sword_head": "Ancient Sword Head",
       "biome.ttm.old_biome": "Old Biome",
+      "fluid.ttm.molten_steel": "Molten Steel",
       "entity.ttm.ancient_slime": "Ancient Slime",
       "item.tmm.ancient_pickaxe_head": "Ancienne Tête de Pioche",
       "item.tmm.ancient_gem": "Ancienne Gem",
@@ -668,18 +744,20 @@
       "item.ttm.ancient_stick": "Ancient Stick",
       "item.ttm.combiner": "Combiner",
       "item.tmm.combiner": "Combineur",
+      "item.ttm.very_hot_flint_and_steel": "Very Hot Flint And Steel",
       "item.ttm.ancient_gem": "Ancient Gem",
-      "item.ttm.cobalt_cow_spawn_egg": "Cobalt Cow Spawn Egg",
       "item.tmm.ancient_pickaxe": "Ancienne Pioche",
       "block.ttm.ancient_ore": "Ancient Ore",
+      "block.ttm.steel_ore": "Steel Ore",
       "itemGroup.tabttm": "TTM",
       "item.ttm.ancient_water": "Ancient Water",
       "item.ttm.ancient_pickaxe": "Ancient Pickaxe",
       "item.ttm.ancient_pickaxe_activate": "Ancient Pickaxe",
       "item.ttm.ancient_shard": "Ancient Shard",
       "block.tmm.ancient_ore": "Ancien Minerai",
+      "entity.ttm.steelcow": "Cobalt Cow",
       "item.ttm.ancient_dust": "Ancient Dust",
-      "entity.ttm.cobalt_cow": "Cobalt Cow",
+      "block.ttm.steel_tank": "Steel Tank",
       "item.tmm.ancient_stick": "Ancien Bâton",
       "item.ttm.ancient_pickaxe_head": "Ancient Pickaxe Head",
       "item.tmm.ancient_dust": "Ancienne Poudre",
@@ -687,9 +765,12 @@
       "item.ttm.ancient_reparator": "Ancient Reparator",
       "item.ttm.ancient_sword": "Ancient Sword",
       "item.ttm.ancient_core": "Ancient Core",
+      "item.ttm.steelcow_spawn_egg": "Cobalt Cow Spawn Egg",
+      "block.ttm.molten_steel": "Molten Steel",
       "item.tmm.ancient_shard": "Ancien fragment",
       "biome.tmm.old_biome": "Ancien Biome",
-      "item.ttm.ancient_slime_spawn_egg": "Ancient Slime Spawn Egg"
+      "item.ttm.ancient_slime_spawn_egg": "Ancient Slime Spawn Egg",
+      "item.ttm.molten_steel_bucket": "Molten Steel Bucket"
     }
   },
   "foldersRoot": {
@@ -741,6 +822,10 @@
       },
       {
         "name": "Structure",
+        "children": []
+      },
+      {
+        "name": "Fluid",
         "children": []
       }
     ]
